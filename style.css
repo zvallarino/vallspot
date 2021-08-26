@@ -1,3 +1,31 @@
 body {
-    background: blue;
+    background: rgb(206, 150, 77);
   }
+
+h3 ul li {
+    color: green;
+    background-color: white;
+    text-align: center;
+}
+
+h3 ul {
+    color: blue;
+    background-color: red;
+    padding: solid;
+    border-color: pink;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    background-color: white;
+    text-align: center;
+
+}
+
+h1 {
+    color: green;
+    background-color: white;
+    text-align: center;
+
+}
